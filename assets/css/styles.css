@@ -1,0 +1,146 @@
+body{
+    color: #7C7970;
+    font-family: 'Trocchi', serif;
+    background-image: url(./fondo-sobreMi2.jpg);
+
+}
+
+/*texto*/
+.nombre{
+    font-size: 3.5rem;
+}
+
+.titulo{
+    font-size: 2rem;
+}
+
+
+.tituloExperiencia{
+    text-align: center;
+    margin-top: 1rem;
+    padding-bottom: 1rem;
+    color: #AEB884;
+}
+
+.tituloEducacion{
+    text-align: center;
+    margin-top: 1rem;
+    padding-bottom: 1rem;
+    color: #AEB884;
+}
+.tituloHabilidades{
+    text-align: center;
+    margin-top: 1rem;
+    padding-bottom: 1rem;
+    color: #AEB884;
+}
+
+.tituloProyectos{
+    text-align: center;
+    margin-top: 1rem;
+    padding-bottom: 1rem;
+    color: #AEB884;
+}
+
+
+.educacion-parrafo{
+    margin-top: 6rem;
+    text-align: left;
+}
+
+.col p{
+    font-size: 1.5rem;
+    text-align: justify;
+}
+
+.entidades-educativas{
+    color: #AEB884;
+}
+
+/*categorias*/
+
+.redes{
+text-align: center;
+margin: auto;
+}
+
+.contenedor{
+    display: flex;
+  justify-content: center;
+  }
+
+/*linea vertical*/
+
+.vr{
+    width: 0rem;
+    color: #AEB884;
+}
+
+/*barras de progreso*/
+
+.progress{
+    background-color: #BACDD1;
+    height: 2rem;
+    border-radius: 6rem;
+    width: 70rem;
+}
+
+.progress-bar{
+    font-size: 1.5rem;
+    background-color: #AEB884;
+}
+
+
+/*imagenes*/
+
+.mapa{
+width: 17rem;
+height: auto;
+}
+
+.logos-argentina-programa{
+    height: 3rem;
+    width: auto;
+}
+
+.foto-perfil{
+    height: 89%;
+    width: auto;
+    border-radius: 50rem;
+}
+
+.linea-vertical{
+    height: 35rem;
+
+}
+
+.img-proyectos{
+    width: auto;
+    height: 23rem;
+    border-radius: 2rem;
+}
+
+.img-proyectos > img:hover {
+    width: 500px;
+    height: 200px;
+    }
+
+
+
+.signo-copyright{
+    width: 2rem;
+    height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

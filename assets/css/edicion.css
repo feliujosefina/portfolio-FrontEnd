@@ -1,0 +1,86 @@
+body{
+    color: #7C7970;
+    font-family: 'Trocchi', serif;
+    background-image: url(./fondo-sobreMi2.jpg);
+
+}
+
+/*texto*/
+.nombre{
+    font-size: 3.5rem;
+}
+
+.titulo{
+    font-size: 2rem;
+}
+
+
+.tituloSobreMi{
+    text-align: center;
+    margin-top: 1rem;
+    padding-bottom: 1rem;
+    color: #AEB884;
+}
+
+.tituloExperiencia{
+    text-align: center;
+    margin-top: 1rem;
+    padding-bottom: 1rem;
+    color: #AEB884;
+}
+
+.tituloEducacion{
+    text-align: center;
+    margin-top: 1rem;
+    padding-bottom: 1rem;
+    color: #AEB884;
+}
+
+.educacion-parrafo{
+    margin-top: 6rem;
+    text-align: left;
+}
+
+.col p{
+    font-size: 1.5rem;
+    text-align: justify;
+}
+
+.entidades-educativas{
+    color: #AEB884;
+}
+
+/*categorias*/
+
+.redes{
+text-align: center;
+margin: auto;
+}
+
+
+/*imagenes*/
+.banner{
+    width: 100%;
+    height: auto;
+}
+
+.mapa{
+width: 17rem;
+height: auto;
+}
+
+.logos-argentina-programa{
+    height: 3rem;
+    width: auto;
+}
+
+.foto-perfil{
+    height: 89%;
+    width: auto;
+    border-radius: 1rem;
+}
+
+.linea-vertical{
+    height: 35rem;
+
+}
